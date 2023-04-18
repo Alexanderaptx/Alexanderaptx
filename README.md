@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alexanderaptx
+- 👋 Hi, I’m @Al
 - 👀 I’m interested in design, photography and movies
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on ...
